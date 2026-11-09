@@ -1,0 +1,1 @@
+Alasan pengaturan Max Number Of Moving menjadi 10 adalah untuk membatasi jumlah objek bergerak yang dapat dideteksi dan dilacak secara bersamaan agar proses tracking AR berjalan lebih optimal dan stabil.

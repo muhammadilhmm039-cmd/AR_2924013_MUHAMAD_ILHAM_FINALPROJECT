@@ -1,0 +1,1 @@
+Saya menggunakan pengaturan Physical Size 10 × 10 meter karena ukuran tersebut disesuaikan dengan dimensi marker Planet Bumi yang digunakan. Pengaturan ini bertujuan agar Unity dapat mengenali marker dengan ukuran fisik yang sesuai, sehingga objek 3D dapat muncul dengan lebih stabil dan proporsional saat kamera AR mendeteksinya.
